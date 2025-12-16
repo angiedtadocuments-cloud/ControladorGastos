@@ -48,20 +48,24 @@ Integración Opcional con Firefly III
 Dashboard de Gastos
 <img src="screenshots/dashboard-gastos.png" width="250" alt="Dashboard de Gastos">
 
+
 Visualiza tus gastos organizados por categorías con gráficos de torta interactivos. Identifica rápidamente dónde se va tu dinero y toma decisiones informadas sobre tu presupuesto.
 
 Dashboard de Ingresos
 <img src="screenshots/dashboard-ingresos.png" width="250" alt="Dashboard de Ingresos">
+
 
 Monitorea tus ingresos a lo largo del tiempo y compara diferentes períodos. Entiende las tendencias de tus entradas de dinero para planificar mejor tu futuro financiero.
 
 Lista de Transacciones
 <img src="screenshots/lista-transacciones.png" width="250" alt="Lista de Transacciones">
 
+
 Accede al historial completo de todas tus transacciones con filtros avanzados. Busca movimientos específicos por fecha, categoría o descripción en segundos.
 
 Nueva Transacción
 <img src="screenshots/nueva-transaccion.png" width="250" alt="Nueva Transacción">
+
 
 Interfaz intuitiva para registrar nuevas transacciones. El formulario te guía paso a paso para capturar toda la información importante: tipo, monto, categoría, fecha y descripción.
 
